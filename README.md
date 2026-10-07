@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Sarth Patel 👋</h1>
 
 <p align="center">
-  <em>Data Analyst · BI Developer · Analytics Engineer — turning messy data into decisions leaders actually use</em>
+  <em>Data Analyst · BI Developer · Analytics Engineer turning messy data into decisions leaders actually use</em>
 </p>
 
 <p align="center">
@@ -15,13 +15,13 @@
 
 ### 🧠 About Me
 
-- 🎓 **MS in Information Management (Data Analytics)** — University of Illinois Urbana-Champaign · 4.0 GPA · May 2026
-- 💼 **~2.5 years** in data analytics & BI — most recently **Data Analyst (ACO Operation) @ TPearl Health**, building AI Agents and working with Google Sheets alongside stakeholder management.
+- 🎓 **MS in Information Management (Data Analytics)** - University of Illinois Urbana-Champaign · 4.0 GPA · May 2026
+- 💼 **~2.5 years** in data analytics & BI - most recently **Data Analyst (ACO Operation) @ TPearl Health**, building AI Agents and working with Google Sheets alongside stakeholder management.
 - 📊 Shipped a Fabric + PySpark pipeline on Census Bureau housing data that surfaced an **8–12 week permit-to-demand lag** for FP&A forecasting
 - ⚡ Cut Power BI refresh from **130s → 40s** with DAX optimization and reduced exec report prep by **60%** with a 15-KPI IT scorecard
 - 🤖 Currently building with **LLMs, RAG, and agentic workflows** alongside lakehouse analytics on Databricks
 - 🏅 Microsoft Power BI Desktop certified
-- 🌎 Open to data analyst / BI / analytics engineering roles — happy to relocate anywhere
+- 🌎 Open to data analyst / BI / analytics engineering roles - happy to relocate anywhere
 
 ---
 
